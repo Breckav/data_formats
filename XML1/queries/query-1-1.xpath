@@ -1,3 +1,0 @@
--(:Vypise vsechny lahve co jsou na sklade se vsema informacema o lahvi i o destlerkach:)-
-
-//bottes/bottle [inStock = "true"]/bottleDescription

@@ -1,3 +1,0 @@
-(:Vypise vsechny regiony pro customera s ID 2 z kterych ochutnal:)
-
-//bottles/bottle [transactions/transaction/customerID = "2"]/bottleDescription/distillery/region 
